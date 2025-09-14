@@ -50,8 +50,8 @@ We access it via **Kaggle API** inside Colab. The repository does **not** commit
 ---
 
 ## Results
-- Linear Regression: RMSE ≈ …, R² ≈ …
-- Quantile RF (Median): RMSE ≈ …, R² ≈ …
+- Linear Regression: RMSE ≈ 5817.28, R² ≈ 0.78
+- Quantile RF (Median): RMSE ≈ 4398.24, R² ≈ 0.87
 - Added value: **uncertainty intervals** (10th–90th) for risk-aware decisions in healthcare finance.
 
 
