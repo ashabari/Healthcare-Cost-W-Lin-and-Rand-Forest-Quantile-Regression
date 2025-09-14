@@ -1,6 +1,8 @@
 # Healthcare-Cost-W-Lin-and-Rand-Forest-Quantile-Regression
 # Predicting Healthcare Costs: Linear Regression ➜ Random Forest Quantile Regression
 
+See Goggle colab notebook: https://colab.research.google.com/drive/1-vx9M2iaudCNsmu8pcq21LE95ZILccpS?usp=sharing
+
 
 A short, hands-on project at the intersection of **healthcare** and **finance**.  
 I built a **Linear Regression** baseline and extend it with **Random Forest Quantile Regression** to produce **uncertainty-aware predictions** (10th/50th/90th percentiles) for **medical charges**.  
