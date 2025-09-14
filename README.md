@@ -42,7 +42,7 @@ We access it via **Kaggle API** inside Colab. The repository does **not** commit
 ---
 
 
-## 🛠 Environment
+## Environment
 - Python 3.9+
 - See `requirements.txt` for packages:
   - pandas, numpy, scikit-learn, matplotlib, seaborn, plotly, pyarrow/fastparquet, kaggle
